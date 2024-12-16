@@ -1,13 +1,13 @@
+# Stainless - Sharpened: Deep dive Across Product, Sales, Marketing, and Finance
+
 This project analyzes [Stainless](https://www.stainlessapi.com/), a company that generates SDKs from OpenAPI (YAML) specifications. The goal is to understand their business model and propose preliminary ideas through a hands-on, proof-of-concept approach. We've broken down the analysis into four segments: Product, Sales, Marketing, and Finance.
 
-## Product
+## 1. Product
 
 The core of [Stainless](https://www.stainlessapi.com/)'s business is SDK generation and upkeep from OpenAPI YAML files. We've built an MVP to understand and demonstrate this process:
 
-<video width="640" height="360" controls>
-  <source src="1-Product/steel-sdk-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Steel Demo Video](1-Product/steel-sdk-demo-min.mp4)
+
 
 ### Steel: OpenAPI SDK Generator
 
