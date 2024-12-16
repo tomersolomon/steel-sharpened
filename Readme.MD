@@ -6,12 +6,7 @@ This project analyzes [Stainless](https://www.stainlessapi.com/), a Series A com
 
 The core of [Stainless](https://www.stainlessapi.com/)'s business is SDK generation from OpenAPI YAML files. We've built an MVP to understand and demonstrate this process:
 
-```html
- <video width="640" height="480" controls>
-   <source src="https://raw.githubusercontent.com/tomersolomon/steel-sharpened/Main/1-Product/short-sdk-demo.mp4" type="video/mp4">
-   Your browser does not support the video tag.
- </video>
- ```
+[![Watch the demo](1-Product/steel-thumbnail.png)](https://vimeo.com/1039740766)
 
 We generate SDK configurations by parsing a provided YAML, prompting for the desired SDK language, and then using Jinja templates to create language-specific SDKs. This MVP helps us understand the underlying mechanics of products like [Stainless](https://www.stainlessapi.com/), [Speakeasy](https://www.speakeasy.com/), and [OpenAPI Generator](https://openapi-generator.tech/).
 
