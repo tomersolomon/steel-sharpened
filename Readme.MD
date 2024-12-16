@@ -21,7 +21,7 @@ We generate local SDK configurations by parsing a provided YAML, prompting for t
 *   **SDK Generation:** Creates Python and Node.js SDKs from local OpenAPI YAML files.
 *   **README Generation for each Language:** Automatically generates a `README.md` for each SDK, outlining the API and its endpoints.
 
-Future MVP development steps include: auto-generating SDK endpoint tests, creating a Click-based CLI, containerizing with Docker, and implementing GitHub Actions for remote connectiviely and YAML-driven automation.
+Future MVP development steps include: auto-generating SDK endpoint tests, creating a Click-based CLI, containerizing with Docker, and implementing GitHub Actions for remote connectivity and YAML-driven automation.
 
 ## :telephone_receiver: 2. Sales: Growth Engineering :telephone_receiver:
 
@@ -49,13 +49,13 @@ We propose a three-pronged marketing strategy:
 
     ![3-Marketing/blog-schedule_table.png](3-Marketing/blog-schedule_table.png)
 
-Given the nature of the product, product-led and marketing-led will be key but the business can also uniquely target companies with public YAML files which provides a unique sales angle.
+Given the nature of the product, product-led and marketing-led will be key but the business can also uniquely target companies with public YAML files which provides a unique sales targeting angle.
 
 ## :dollar: 4. Finance: Competitive Landscape and Pricing :dollar:
 
-We performed a preliminary competitive analysis to understand the ecosystem and get a sense of pricing. We also began formulating a few [investor-esque questions](https://github.com/tomersolomon/steel-sharpened/blob/Main/4-Finance/investory-questions.MD) based on our current understanding of the business. See `comps_and_ecosystem.json` for our competitive analysis. A few observations:
+We performed a preliminary competitive analysis to understand the ecosystem and get a sense of pricing. We also jotted down a few [investor-esque questions](https://github.com/tomersolomon/steel-sharpened/blob/Main/4-Finance/investory-questions.MD) based on our current understanding of the business. See `comps_and_ecosystem.json` for our competitive analysis. A few observations:
 
-*   **Speakeasy:** The notable "K-Nearest Neighbor" comp that also just recently raised venture funding from GV so will be a notable competitor. A few highlights are their Terraform offering for the infrastructure market and their local CLI which offers a more controlled SDK development experience. 
+*   **Speakeasy:** The notable "K-Nearest Neighbor" comp that also  recently raised venture so will be a notable competitor. A few highlights are their Terraform offering for the infrastructure market and their local CLI which offers a more controlled SDK development experience. 
 
 *   **Terraform Opportunity:** Terraform and cloud infrastructure market seems like a very attractice opportunity to enter as it's an underserviced segment that Stainless can capture with our YAML-driven platform.
 
