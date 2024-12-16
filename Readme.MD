@@ -5,7 +5,7 @@ This project analyzes [Stainless](https://www.stainlessapi.com/), a company that
 The core of [Stainless](https://www.stainlessapi.com/)'s business is SDK generation and upkeep from OpenAPI YAML files. We've built an MVP to understand and demonstrate this process:
 
 <video width="640" height="360" controls>
-  <source src="1-Product/steel-sdk-demo.mov" type="video/mp4">
+  <source src="1-Product/steel-sdk-demo.mov" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
 
