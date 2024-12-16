@@ -1,4 +1,4 @@
-# :nut_and_bolt:  Sharpend Steel: A Stainless Deep Dive :nut_and_bolt:
+# :nut_and_bolt:  Sharpened Steel: A Stainless Deep Dive :nut_and_bolt:
 
 This project analyzes [Stainless](https://www.stainlessapi.com/), a company that automatically generates - and maintains - SDKs from OpenAPI YAML specifications. The goal is to better understand the product, market landscape, and propose preliminary S&M ideas through a hands-on and proof-of-concept approach. 
 
