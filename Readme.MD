@@ -10,7 +10,7 @@ The core of Stainless's business is SDK generation from OpenAPI YAML files.
 
 We've built an MVP to better understand and demonstrate this process (redirects to Vimeo video):
 
-[![Watch the demo](1-Product/steel-thumbnail.png)](https://vimeo.com/1039740766)
+[![Watch the demo](1-Product/steel-gif.gif)](https://vimeo.com/1039740766)
 |:--:|
 | *Steel Product Demo (Vimeo)* |
 
