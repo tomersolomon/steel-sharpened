@@ -8,11 +8,11 @@ We've broken down the analysis into four segments: (1) Product, (2) Sales, (3) M
 
 The core of [Stainless](https://www.stainlessapi.com/)'s business is SDK generation from OpenAPI YAML files. 
 
-We've built an MVP to better understand and demonstrate this process (redirects to Vimeo):
+We've built an MVP to better understand and demonstrate this process (redirects to Vimeo video):
 
-[![Watch the demo](1-Product/steel-thumbnail.png)](https://vimeo.com/1039740766){:target="_blank"}
+[![Watch the demo](1-Product/steel-thumbnail.png)](https://vimeo.com/1039740766)
 |:--:|
-[| *Steel Product Demo - Vimeo* |](https://vimeo.com/1039740766){:target="_blank"}
+| *Steel Product Demo (Vimeo)* |
 
 We generate SDK configurations by parsing a provided YAML, prompting for the desired SDK language (i.e. Python or Node), and then use Jinja templates to create language-specific SDKs which are then stored in the `1-Product/output-sdk` folder. This MVP helps us understand the underlying mechanics of products like [Stainless](https://www.stainlessapi.com/), [Speakeasy](https://www.speakeasy.com/), and on the open-source side [OpenAPI Generator](https://openapi-generator.tech/). 
 
@@ -61,4 +61,5 @@ We performed a preliminary competitive analysis to understand the ecosystem and 
 *   **Terraform Opportunity:** Terraform and cloud infrastructure market seems like a very attractice opportunity to enter as it's an underserviced segment that we can capture with our YAML-driven platform.
 
 *   **Partnerships** There are interesting potential partnership opportunities in documentation (depending on Stainless's build vs. buy strategy) as well as with a) CLI players like CircleCI and b) API management companies like Kong. There is also low hanging fruit like becoming a more official partner of OpenAPI.
+
 Reach out at [@tomer_solomon](https://twitter.com/tomer_solomon) for any questions and thoughts!
