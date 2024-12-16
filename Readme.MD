@@ -1,21 +1,22 @@
 # Stainless - Sharpened 
-##Deep Dive Across Product, Sales, Marketing, and Finance
+## Deep Dive Across Product, Sales, Marketing, and Finance
 
-This project analyzes [Stainless](https://www.stainlessapi.com/), a company that generates SDKs from OpenAPI (YAML) specifications. The goal is to understand their business model and propose preliminary ideas through a hands-on, proof-of-concept approach. We've broken down the analysis into four segments: Product, Sales, Marketing, and Finance.
+This project analyzes [Stainless](https://www.stainlessapi.com/), a company that generates SDKs from OpenAPI YAML specifications. The goal is to understand the product, business model and propose preliminary ideas through a hands-on and proof-of-concept approach. We've broken down the analysis into four segments: (1) Product, (2) Sales, (3) Marketing, and (4) Finance.
 
-## 1. Product
+## 1. Product: SDK Generation 
 
-The core of [Stainless](https://www.stainlessapi.com/)'s business is SDK generation and upkeep from OpenAPI YAML files. We've built an MVP to understand and demonstrate this process:
+The core of [Stainless](https://www.stainlessapi.com/)'s business is SDK generation - as well as upkeep - from OpenAPI YAML files. We've built an MVP to understand and demonstrate this process:
 
-<video width="640" height="360" controls>
+<h1>Hello, World!</h1>
+<p>This is a paragraph of text.</p>
+
+<!-- <video width="640" height="360" controls>
   <source src="1-Product/steel-sdk-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 
-### Steel: OpenAPI SDK Generator
-
-This project generates a basic SDK locally from an OpenAPI YAML file, currently supporting Python and Node.js. It parses the YAML and uses Jinja templates to create language-specific SDKs. This MVP helps us understand the underlying mechanics of products like [Stainless](https://www.stainlessapi.com/), [Speakeasy](https://www.speakeasy.com/), and [OpenAPI Generator](https://openapi-generator.tech/).
+We generate SDK configurations by parsing a provided YAML, prompting for the desired SDK language, and then using Jinja templates to create language-specific SDKs. This MVP helps us understand the underlying mechanics of products like [Stainless](https://www.stainlessapi.com/), [Speakeasy](https://www.speakeasy.com/), and [OpenAPI Generator](https://openapi-generator.tech/).
 
 **Key Features of the MVP:**
 
@@ -32,13 +33,13 @@ This project generates a basic SDK locally from an OpenAPI YAML file, currently 
 
 ## 2. Sales
 
-The objective here is to identify potential customers through an automated and engineering-first approach. We've focused on three target groups:
+The objective here is to identify potential customers via engineering-first approach. We've focused on three target groups:
 
-1. **Public OpenAPI YAML Files:** We used [https://api.apis.guru/](https://api.apis.guru/) to source publicly available OpenAPI specifications, along with contact information, documentation links, and the YAML files themselves.
-2. **API Companies:** We developed a Playwright-based web scraper to extract a list of API companies from [API-Tracker](https://apitracker.io/). This approach can be extended to platforms like the Postman Public API Network.
-3. **API Platform Engineers:** We leveraged [Apollo](https://app.apollo.io/)'s database to identify US-based API platform engineers as a target audience.
+1. **Public OpenAPI YAML Files:** We used [https://api.apis.guru/](https://api.apis.guru/) - an API that aggreagates API's - to source publicly available OpenAPI specifications, along with contact information, documentation links, and the YAML files themselves. The caveat here is that the scope of companies may not be a very aligned fit (as we can see there's alot of incumbements in the list) but this is more a proof of concept to shower a creative way of driving growth via the finding of OpenAPI YAML files. 
+2. **API Companies:** Next we leveraged the power of web scraping. We developed a Playwright-based web scraper to extract a list of API companies from [API-Tracker](https://apitracker.io/). This approach can be extended to platforms like the Postman Public API Network.
+3. **API Platform Engineers:** We then targeted People over Companies. We leveraged [Apollo](https://app.apollo.io/)'s database to identify US-based API platform engineers as a target audience.
 
-This of course exludes plenty of other channels - namley targeting high growth AI & API first companies within the same investor ecosystem - but serves as a way to be engineering led in growth. 
+This of course exludes plenty of other channels - namley targeting high growth AI & API first companies within the same investor ecosystem - but serves as a way to demonstrate creative and engineering-first approaches in growth. 
 
 **Proof of Concept and Future Steps:**
 
