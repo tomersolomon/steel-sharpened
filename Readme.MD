@@ -8,9 +8,9 @@ We've broken down the analysis into four segments: (1) Product, (2) Sales, (3) M
 
 The core of Stainless's business is SDK generation from OpenAPI YAML files. 
 
-We've built an MVP to better understand and demonstrate this process (redirects to Vimeo video):
+We've built an MVP to better understand and demonstrate this process (redirects to [Vimeo video](https://vimeo.com/1039740766?share=copy#t=0 )):
 
-[![Watch the demo](1-Product/steel-gif.gif)](https://vimeo.com/1039740766)
+[![Watch the demo](1-Product/steel-gif.gif)]( https://vimeo.com/1039740766?share=copy#t=0 )
 |:--:|
 | *Steel Product Demo (Vimeo)* |
 
