@@ -1,4 +1,5 @@
-# Stainless - Sharpened: Deep dive Across Product, Sales, Marketing, and Finance
+# Stainless - Sharpened 
+##Deep Dive Across Product, Sales, Marketing, and Finance
 
 This project analyzes [Stainless](https://www.stainlessapi.com/), a company that generates SDKs from OpenAPI (YAML) specifications. The goal is to understand their business model and propose preliminary ideas through a hands-on, proof-of-concept approach. We've broken down the analysis into four segments: Product, Sales, Marketing, and Finance.
 
@@ -6,7 +7,10 @@ This project analyzes [Stainless](https://www.stainlessapi.com/), a company that
 
 The core of [Stainless](https://www.stainlessapi.com/)'s business is SDK generation and upkeep from OpenAPI YAML files. We've built an MVP to understand and demonstrate this process:
 
-[Steel Demo Video](1-Product/steel-sdk-demo-min.mp4)
+<video width="640" height="360" controls>
+  <source src="1-Product/steel-sdk-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ### Steel: OpenAPI SDK Generator
@@ -26,7 +30,7 @@ This project generates a basic SDK locally from an OpenAPI YAML file, currently 
 3. **Dockerization:** Containerize the application with Docker for consistent performance across environments.
 4. **Automated Github Updates:** Learn how to automated SDK updates using GitHub Apps and Actions, triggered by changes to the YAML file. Explore automated pushing to remote GitHub repositories.
 
-## Sales
+## 2. Sales
 
 The objective here is to identify potential customers through an automated and engineering-first approach. We've focused on three target groups:
 
@@ -44,25 +48,25 @@ This initial data gathering serves as a proof of concept. Future steps involve:
 *   **Lead Scoring:** Developing a lead scoring model based on fit and relevance.
 *   **Automated Campaigns:** Creating targeted campaigns using tools like Instantly.
 
-## Marketing: Content and Engagement Strategy
+## 3. Marketing: Content and Engagement Strategy
 
 We propose a three-pronged marketing strategy:
 
 1. **Events:** A calendar of relevant industry events to participate in.
 
-    ![api-events_table.png](api-events_table.png)
+    ![api-events_table.png](3-Marketing/api-events_table.png)
 
 2. **Video/Webinar Content:** A schedule for creating and publishing video content (e.g., tutorials, demos, webinars).
 
- ![video-schedule_table.png](video-schedule_table.png)
+ ![video-schedule_table.png](3-Marketing/video-schedule_table.png)
 
 3. **Blog Content:** A plan for consistent blog posts covering technical deep dives, use cases, and industry insights.
 
-    ![blog-schedule_table.png](blog-schedule_table.png)
+    ![blog-schedule_table.png](3-Marketing/blog-schedule_table.png)
 
 Given the nature of the product, product-led and marketing-led will be key but the business can also uniquely target companies with public YAML files so focused sales will also be strategic. 
 
-## Finance: Competitive Landscape, Pricing, and Potential Partnerships
+## 4. Finance: Competitive Landscape, Pricing, and Potential Partnerships
 
 We performed a preliminary competitive analysis to understand the ecosystem, identify potential partners, and get a sense of pricing models. We also began formulating a few investor-related questions based on our current understanding of the business. See `comps_and_ecosystem.json` for our competitive analysis.
 
