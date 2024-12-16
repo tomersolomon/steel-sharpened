@@ -2,14 +2,11 @@
 
 This project analyzes [Stainless](https://www.stainlessapi.com/), a Series A company that generates SDKs from OpenAPI YAML specifications. The goal is to understand the product, business model and propose preliminary ideas through a hands-on and proof-of-concept approach. We've broken down the analysis into four segments: (1) Product, (2) Sales, (3) Marketing, and (4) Finance.
 
-## 1. Product: SDK Generation :computer: 
+## :computer:  1. Product  :computer: 
 
 The core of [Stainless](https://www.stainlessapi.com/)'s business is SDK generation from OpenAPI YAML files. We've built an MVP to understand and demonstrate this process:
 
-<video width="640" height="360" controls>
-  <source src="1-Product/steel-sdk-demo-min.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video](https://github.com/tomersolomon/steel-sharpened/blob/Main/1-Product/steel-sdk-demo-min.mp4?raw=true)
 
 We generate SDK configurations by parsing a provided YAML, prompting for the desired SDK language, and then using Jinja templates to create language-specific SDKs. This MVP helps us understand the underlying mechanics of products like [Stainless](https://www.stainlessapi.com/), [Speakeasy](https://www.speakeasy.com/), and [OpenAPI Generator](https://openapi-generator.tech/).
 
@@ -26,7 +23,7 @@ We generate SDK configurations by parsing a provided YAML, prompting for the des
 3. **Dockerization:** Containerize the application with Docker for consistent performance across environments.
 4. **Automated Github Updates:** Learn how to automated SDK updates using GitHub Apps and Actions, triggered by changes to the YAML file. Explore automated pushing to remote GitHub repositories.
 
-## 2. Sales: Growth Engineering :telephone_receiver:
+## :telephone_receiver: 2. Sales: Growth Engineering :telephone_receiver:
 
 The objective here is to identify potential customers via engineering-first approach. We've focused on three target groups:
 
@@ -40,7 +37,7 @@ This of course exludes plenty of other channels - namley targeting high growth A
 *   **Lead Scoring:** Developing a lead scoring model based on fit and relevance.
 *   **Scaled Outbound Campaigns:** Creating targeted campaigns using tools like Instantly.
 
-## 3. Marketing: Content and Engagement Strategy :mega:
+## :mega: 3. Marketing: API Community and Content :mega:
 
 We propose a three-pronged marketing strategy:
 
@@ -58,7 +55,7 @@ We propose a three-pronged marketing strategy:
 
 Given the nature of the product, product-led and marketing-led will be key but the business can also uniquely target companies with public YAML files so focused sales will also be strategic. 
 
-## 4. Finance: Competitive Landscape, Pricing, and Partnerships :dollar:
+## :dollar: 4. Finance: Competitive Landscape and Pricing :dollar:
 
 We performed a preliminary competitive analysis to understand the ecosystem, identify potential partners, and get a sense of pricing models. We also began formulating a few investor-related questions based on our current understanding of the business. See `comps_and_ecosystem.json` for our competitive analysis. A few observations
 
@@ -68,6 +65,6 @@ We performed a preliminary competitive analysis to understand the ecosystem, ide
 
 *   **Investor Questions:** We have compiled a list of investor questions in a separate document (`questions.md`) to further explore the financial aspects of Stainless's business.
 
-## Conclusion :scroll: 
+## :scroll: Conclusion :scroll: 
 
 This project provides a comprehensive analysis of Stainless' business, focusing on the core product alongside potential ideas for sales strategy, marketing, and marketing landscape. A starting point for anyone interested in learning more as well as understandign the intricacies of the API economy!
