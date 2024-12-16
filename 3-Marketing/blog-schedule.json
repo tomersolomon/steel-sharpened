@@ -1,0 +1,184 @@
+[
+  {
+    "Target Post Date": "Week of 2025-01-06",
+    "Quarter": "Q1",
+    "Segment": "SDK Development Guides",
+    "Title": "The Definitive Guide to Creating Best-in-Class SDKs: Part 1 - Planning and Design",
+    "Brief Description": "Covers the crucial planning and design phase of SDK development. Learn how to define your audience, choose the right languages, and establish a solid foundation."
+  },
+  {
+    "Target Post Date": "Week of 2025-01-20",
+    "Quarter": "Q1",
+    "Segment": "Stainless-Specific",
+    "Title": "Stainless vs. Speakeasy: A Comprehensive Comparison",
+    "Brief Description": "A detailed comparison of Stainless and Speakeasy, highlighting advantages in customization, ease of use, code quality, and language support."
+  },
+  {
+    "Target Post Date": "Week of 2025-02-03",
+    "Quarter": "Q1",
+    "Segment": "SDK Development Guides",
+    "Title": "The Definitive Guide to Creating Best-in-Class SDKs: Part 2 - Core Functionality and Architecture",
+    "Brief Description": "Dive into the core functionality and architecture of a well-designed SDK. Learn how to structure code, handle API requests/responses, and implement essential features."
+  },
+  {
+    "Target Post Date": "Week of 2025-02-17",
+    "Quarter": "Q1",
+    "Segment": "Industry Trends",
+    "Title": "The Rise of API-First Companies: Why SDKs Are Essential",
+    "Brief Description": "Explore the growing trend of API-first companies and understand why high-quality SDKs are essential for their success and developer adoption."
+  },
+  {
+    "Target Post Date": "Week of 2025-03-03",
+    "Quarter": "Q1",
+    "Segment": "SDK Development Guides",
+    "Title": "The Definitive Guide to Creating Best-in-Class SDKs: Part 3 - Language-Specific Considerations",
+    "Brief Description": "Delves into language-specific considerations for SDK development. Tips and best practices for building SDKs in popular languages like Python, JavaScript, and Java."
+  },
+  {
+    "Target Post Date": "Week of 2025-03-17",
+    "Quarter": "Q1",
+    "Segment": "Stainless-Specific",
+    "Title": "Advanced SDK Customization with Stainless: Tailoring Your SDKs to Specific Needs",
+    "Brief Description": "Unlock the full power of Stainless's customization capabilities. Tailor generated SDKs to meet specific requirements and integrate with existing systems."
+  },
+  {
+    "Target Post Date": "Week of 2025-03-31",
+    "Quarter": "Q1",
+    "Segment": "SDK Development Guides",
+    "Title": "The Definitive Guide to Creating Best-in-Class SDKs: Part 4 - Testing and Quality Assurance",
+    "Brief Description": "Focuses on testing and quality assurance for your SDKs. Learn how to write tests, implement automated testing, and ensure reliability."
+  },
+  {
+    "Target Post Date": "Week of 2025-04-14",
+    "Quarter": "Q2",
+    "Segment": "Industry Trends",
+    "Title": "The Impact of AI on API Development and Consumption",
+    "Brief Description": "Explore the transformative impact of AI on the API landscape. How AI is changing API development, consumption, and the role of SDKs in an AI-driven world."
+  },
+  {
+    "Target Post Date": "Week of 2025-04-28",
+    "Quarter": "Q2",
+    "Segment": "SDK Development Guides",
+    "Title": "Choosing the Right Languages for Your SDKs: A Data-Driven Approach",
+    "Brief Description": "A data-driven approach to selecting languages, considering factors like popularity, community support, and specific use cases."
+  },
+  {
+    "Target Post Date": "Week of 2025-05-12",
+    "Quarter": "Q2",
+    "Segment": "Stainless-Specific",
+    "Title": "How Stainless Improves Developer Productivity: A Quantitative Analysis",
+    "Brief Description": "Learn how Stainless significantly boosts developer productivity by automating SDK generation and reducing manual coding. Sharing data from customer experiences."
+  },
+  {
+    "Target Post Date": "Week of 2025-05-26",
+    "Quarter": "Q2",
+    "Segment": "SDK Development Guides",
+    "Title": "How to Write API Documentation that Developers Will Actually Use",
+    "Brief Description": "Provides practical tips and best practices for creating clear, concise, and helpful API documentation that developers will love."
+  },
+  {
+    "Target Post Date": "Week of 2025-06-09",
+    "Quarter": "Q2",
+    "Segment": "Industry Trends",
+    "Title": "The Future of OpenAPI: What's Next for the Specification?",
+    "Brief Description": "Dive into the future of the OpenAPI Specification. Upcoming features, community initiatives, and the evolving role of OpenAPI in the API ecosystem."
+  },
+  {
+    "Target Post Date": "Week of 2025-06-23",
+    "Quarter": "Q2",
+    "Segment": "SDK Development Guides",
+    "Title": "Testing Your SDKs: Ensuring Quality and Reliability",
+    "Brief Description": "A comprehensive guide to testing your SDKs. Various testing methodologies, including unit testing, integration testing, and end-to-end testing."
+  },
+  {
+    "Target Post Date": "Week of 2025-07-07",
+    "Quarter": "Q3",
+    "Segment": "Stainless-Specific",
+    "Title": "Stainless in Action: Real-World Use Cases and Examples",
+    "Brief Description": "Explore real-world examples of how companies are using Stainless to build and manage their SDKs. Showcasing different use cases and the benefits."
+  },
+  {
+    "Target Post Date": "Week of 2025-07-21",
+    "Quarter": "Q3",
+    "Segment": "SDK Development Guides",
+    "Title": "Common SDK Design Mistakes and How to Avoid Them",
+    "Brief Description": "Highlights common pitfalls in SDK design and provides practical advice on how to avoid them, ensuring a smooth and efficient developer experience."
+  },
+  {
+    "Target Post Date": "Week of 2025-08-04",
+    "Quarter": "Q3",
+    "Segment": "Industry Trends",
+    "Title": "The Evolution of API Security: Best Practices for a Secure API Ecosystem",
+    "Brief Description": "Explore the evolving landscape of API security. Best practices, emerging threats, and strategies for building a secure API ecosystem."
+  },
+  {
+    "Target Post Date": "Week of 2025-08-18",
+    "Quarter": "Q3",
+    "Segment": "SDK Development Guides",
+    "Title": "Building SDKs for Different Platforms: Mobile, Web, and Server-Side",
+    "Brief Description": "Insights into building SDKs for mobile (iOS, Android), web (JavaScript), and server-side environments, addressing platform-specific challenges."
+  },
+  {
+    "Target Post Date": "Week of 2025-09-01",
+    "Quarter": "Q3",
+    "Segment": "Stainless-Specific",
+    "Title": "Generating SDKs from Your OpenAPI Spec with Stainless: A Step-by-Step Tutorial",
+    "Brief Description": "A practical, step-by-step tutorial demonstrating how to use Stainless to generate SDKs from an OpenAPI specification."
+  },
+  {
+    "Target Post Date": "Week of 2025-09-15",
+    "Quarter": "Q3",
+    "Segment": "SDK Development Guides",
+    "Title": "Maintaining and Versioning Your SDKs: Strategies for Long-Term Success",
+    "Brief Description": "Covers strategies for maintaining your SDKs, handling versioning, managing breaking changes, and ensuring backward compatibility."
+  },
+  {
+    "Target Post Date": "Week of 2025-09-29",
+    "Quarter": "Q3",
+    "Segment": "Industry Trends",
+    "Title": "The Role of SDKs in a Microservices Architecture",
+    "Brief Description": "Explore the role of SDKs in a microservices environment. How SDKs can facilitate communication between services and simplify integration."
+  },
+  {
+    "Target Post Date": "Week of 2025-10-13",
+    "Quarter": "Q4",
+    "Segment": "SDK Development Guides",
+    "Title": "Advanced Authentication Techniques for Your SDKs",
+    "Brief Description": "Explore advanced authentication techniques for securing your SDKs and APIs. Cover topics like OAuth 2.0, JWT, OpenID Connect, and other methods."
+  },
+  {
+    "Target Post Date": "Week of 2025-10-27",
+    "Quarter": "Q4",
+    "Segment": "Stainless-Specific",
+    "Title": "Comparing SDK Generation Tools: Stainless vs. the Competition",
+    "Brief Description": "A comprehensive comparison of Stainless against other SDK generation tools. Evaluate features, ease of use, code quality, and other factors."
+  },
+  {
+    "Target Post Date": "Week of 2025-11-10",
+    "Quarter": "Q4",
+    "Segment": "SDK Development Guides",
+    "Title": "Creating a Developer-Friendly Onboarding Experience for Your SDK",
+    "Brief Description": "Focuses on creating a smooth and engaging onboarding experience for developers using your SDK. Documentation, tutorials, sample code, and more."
+  },
+  {
+    "Target Post Date": "Week of 2025-11-24",
+    "Quarter": "Q4",
+    "Segment": "Industry Trends",
+    "Title": "Serverless and APIs: How Serverless Architectures Impact API Development",
+    "Brief Description": "Discuss the benefits and challenges of using serverless functions with APIs and the role of SDKs in a serverless world."
+  },
+  {
+    "Target Post Date": "Week of 2025-12-08",
+    "Quarter": "Q4",
+    "Segment": "SDK Development Guides",
+    "Title": "Handling Errors Gracefully in Your SDKs",
+    "Brief Description": "Best practices for handling errors gracefully, providing informative error messages, and implementing strategies for retries and recovery."
+  },
+  {
+    "Target Post Date": "Week of 2025-12-22",
+    "Quarter": "Q4",
+    "Segment": "Stainless-Specific",
+    "Title": "Best Practices for Using Stainless in a Team Environment",
+    "Brief Description": "Learn how to effectively use Stainless in a collaborative team environment. Code style consistency, version control integration, and more."
+  }
+]

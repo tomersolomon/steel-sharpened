@@ -1,0 +1,70 @@
+// index.js
+
+const axios = require('axios');
+
+class ApiClient {
+    constructor(baseURL) {
+        this.baseURL = baseURL;
+        this.apiKey = 'special-key'; // API key, replace with your authentication mechanism if needed
+    }
+
+    async callApi(path, method, params = {}) {
+        const url = `${this.baseURL}${path}`;
+        const headers = {
+            'Content-Type': 'application/json',
+            'api_key': this.apiKey, // Include API key in headers (adjust header name as needed)
+        };
+
+        try {
+            let response;
+            if (method === 'GET') {
+                response = await axios.get(url, { params, headers });
+            } else if (method === 'POST') {
+                response = await axios.post(url, params, { headers });
+            } else if (method === 'PUT') {
+                response = await axios.put(url, params, { headers });
+            } else if (method === 'DELETE') {
+                response = await axios.delete(url, { headers });
+            } else {
+                throw new Error(`Unsupported HTTP method: ${method}`);
+            }
+
+            return response.data;
+        } catch (error) {
+            if (error.response) {
+                throw new Error(`Request failed with status code ${error.response.status}`);
+            } else if (error.request) {
+                throw new Error('Request made but no response received');
+            } else {
+                throw new Error('Error setting up request');
+            }
+        }
+    }
+}
+
+{% for path, methods in spec.paths.items() %}
+    {% for method, details in methods.items() %}
+        {% if method.lower() != 'parameters' %}
+            {% set operation_id = details.operationId %}
+            {% set class_name = operation_id.replace("_", " ").split(" ")|map("capitalize")|join("") %}
+
+exports.{{ class_name }} = class {{ class_name }} {
+    constructor(apiClient) {
+        this.apiClient = apiClient;
+    }
+
+    async {{ operation_id }}(params = {}) {
+        /**
+         {% if details.summary %}
+         * {{ details.summary }}
+         {% endif %}
+         {% if details.description %}
+         * {{ details.description }}
+         {% endif %}
+         */
+        return await this.apiClient.callApi("{{ path }}", "{{ method }}", params);
+    }
+};
+        {% endif %}
+    {% endfor %}
+{% endfor %}

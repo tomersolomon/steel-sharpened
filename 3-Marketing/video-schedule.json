@@ -1,0 +1,227 @@
+
+[
+  {
+    "Target Post Date": "Week of 2025-01-13",
+    "Quarter": "Q1",
+    "Segment": "Customer Success Story",
+    "Video Title": "How Cloudflare Enhances Developer Experience with Stainless-Generated SDKs",
+    "Short Video Description": "Learn how Cloudflare uses Stainless to improve developer experience and streamline their SDK workflow. Includes a testimonial from a Cloudflare engineer.",
+    "Outside Collaborators": "Cloudflare Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-01-27",
+    "Quarter": "Q1",
+    "Segment": "Tutorial/Demo",
+    "Video Title": "Generating Your First SDK with Stainless: A Step-by-Step Guide",
+    "Short Video Description": "A beginner-friendly guide to generating your first SDK with Stainless. We'll walk through the entire process, from OpenAPI spec to a fully functional SDK.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-02-10",
+    "Quarter": "Q1",
+    "Segment": "Tutorial/Demo",
+    "Video Title": "From OpenAPI Spec to Multi-Language SDKs: A Deep Dive into Stainless",
+    "Short Video Description": "Explore the power of Stainless in generating SDKs for multiple programming languages from a single OpenAPI specification.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-02-24",
+    "Quarter": "Q1",
+    "Segment": "Customer Success Story",
+    "Video Title": "OpenAI's Approach to API Scalability: Featuring Stainless SDKs",
+    "Short Video Description": "Discover how OpenAI leverages Stainless to scale their API offerings and maintain high-quality SDKs. Hear directly from an OpenAI team member.",
+    "Outside Collaborators": "OpenAI Team Member for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-03-10",
+    "Quarter": "Q1",
+    "Segment": "Tutorial/Demo",
+    "Video Title": "Customizing Your Stainless-Generated SDKs: Advanced Features",
+    "Short Video Description": "Unlock the full potential of Stainless by learning how to customize your generated SDKs to meet specific needs and integrate seamlessly with your existing systems.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-03-24",
+    "Quarter": "Q1",
+    "Segment": "Best Practices/Thought Leadership",
+    "Video Title": "The Ultimate Guide to SDK Design: Principles and Best Practices",
+    "Short Video Description": "Dive into the principles of great SDK design. Learn how to create SDKs that are easy to use, well-documented, and provide an exceptional developer experience.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-04-07",
+    "Quarter": "Q2",
+    "Segment": "Tutorial/Demo",
+    "Video Title": "Comparing Stainless and Speakeasy: A Feature-by-Feature Breakdown",
+    "Short Video Description": "A detailed comparison of Stainless and Speakeasy, highlighting the strengths of Stainless in terms of customization, ease of use, and code quality.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-04-21",
+    "Quarter": "Q2",
+    "Segment": "Customer Success Story",
+    "Video Title": "Inside Anthropic's API Strategy: Leveraging Stainless for Efficient SDK Management",
+    "Short Video Description": "Learn how Anthropic uses Stainless to efficiently manage their SDKs, reduce development time, and improve API consistency. Includes a testimonial from Anthropic.",
+    "Outside Collaborators": "Anthropic Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-05-05",
+    "Quarter": "Q2",
+    "Segment": "Tutorial/Demo",
+    "Video Title": "Integrating Stainless into Your CI/CD Pipeline",
+    "Short Video Description": "Automate your SDK generation and release process by integrating Stainless into your existing CI/CD pipeline. We'll demonstrate how to do this with popular CI/CD tools.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-05-19",
+    "Quarter": "Q2",
+    "Segment": "Customer Success Story",
+    "Video Title": "Treasury's Fintech API Success: Powered by Stainless SDKs",
+    "Short Video Description": "Discover how Treasury uses Stainless to power their fintech APIs and provide a seamless experience for developers. Includes insights from a Treasury engineer.",
+    "Outside Collaborators": "Treasury Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-06-02",
+    "Quarter": "Q2",
+    "Segment": "Tutorial/Demo",
+    "Video Title": "Generating SDKs for Salesforce APIs with Stainless",
+    "Short Video Description": "Learn how to use Stainless to quickly generate SDKs for Salesforce APIs, making it easier to integrate with the Salesforce platform.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-06-16",
+    "Quarter": "Q2",
+    "Segment": "Best Practices/Thought Leadership",
+    "Video Title": "Versioning Your APIs and SDKs: Strategies for Success",
+    "Short Video Description": "Explore different strategies for versioning your APIs and SDKs. Learn how to manage breaking changes and ensure backward compatibility.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-06-30",
+    "Quarter": "Q2",
+    "Segment": "Customer Success Story",
+    "Video Title": "Groq's High-Performance SDKs: Built with Stainless",
+    "Short Video Description": "See how Groq leverages Stainless to build high-performance SDKs that meet the demands of their cutting-edge AI hardware. Features a testimonial from Groq.",
+    "Outside Collaborators": "Groq Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-07-14",
+    "Quarter": "Q3",
+    "Segment": "Tutorial/Demo",
+    "Video Title": "Generating SDKs for AWS APIs with Stainless",
+    "Short Video Description": "Learn how to use Stainless to quickly generate SDKs for AWS APIs, making it easier to integrate with AWS.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-07-28",
+    "Quarter": "Q3",
+    "Segment": "Customer Success Story",
+    "Video Title": "Writer's Streamlined SDK Workflow",
+    "Short Video Description": "See how Writer leverages Stainless to simplify their SDK workflow, enabling them to iterate faster and deliver a better developer experience.",
+    "Outside Collaborators": "Writer Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-08-11",
+    "Quarter": "Q3",
+    "Segment": "Tutorial/Demo",
+    "Video Title": "Generating SDKs for Google Cloud APIs with Stainless",
+    "Short Video Description": "Learn how to use Stainless to quickly generate SDKs for Google Cloud APIs, making it easier to integrate with Google Cloud.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-08-25",
+    "Quarter": "Q3",
+    "Segment": "Customer Success Story",
+    "Video Title": "together.ai's Developer-Centric API Approach with Stainless",
+    "Short Video Description": "Discover how together.ai utilizes Stainless to create a developer-centric API experience, resulting in faster adoption and improved developer satisfaction.",
+    "Outside Collaborators": "together.ai Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-09-08",
+    "Quarter": "Q3",
+    "Segment": "Tutorial/Demo",
+    "Video Title": "Advanced Authentication Strategies for Your SDKs",
+    "Short Video Description": "Dive into different authentication methods (API keys, OAuth 2.0, etc.) and learn how to implement them in your Stainless-generated SDKs.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-09-22",
+    "Quarter": "Q3",
+    "Segment": "Best Practices/Thought Leadership",
+    "Video Title": "API Documentation that Developers Love: Tips and Tricks",
+    "Short Video Description": "Learn how to write API documentation that is clear, concise, and helpful. We'll share practical tips and tricks to make your API documentation stand out.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-10-06",
+    "Quarter": "Q4",
+    "Segment": "Customer Success Story",
+    "Video Title": "Mux's Video API Success",
+    "Short Video Description": "See how Mux leverages Stainless to provide a seamless and efficient experience for developers working with their video API.",
+    "Outside Collaborators": "Mux Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-10-20",
+    "Quarter": "Q4",
+    "Segment": "Tutorial/Demo",
+    "Video Title": "Testing Your Stainless-Generated SDKs",
+    "Short Video Description": "Learn how to write comprehensive tests for your Stainless-generated SDKs, ensuring their quality, reliability, and correctness.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-11-03",
+    "Quarter": "Q4",
+    "Segment": "Customer Success Story",
+    "Video Title": "Finch's Unified API Experience Powered by Stainless",
+    "Short Video Description": "Learn how Finch uses Stainless to create a unified API experience across multiple providers, simplifying integration for their customers.",
+    "Outside Collaborators": "Finch Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-11-17",
+    "Quarter": "Q4",
+    "Segment": "Webinar",
+    "Video Title": "Live Q&A with the Stainless Team",
+    "Short Video Description": "Join us for a live Q&A session where you can ask the Stainless team anything about Stainless, SDK development, and API best practices.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-12-01",
+    "Quarter": "Q4",
+    "Segment": "Customer Success Story",
+    "Video Title": "Metronome's Usage-Based Billing Made Easy with Stainless",
+    "Short Video Description": "Discover how Metronome leverages Stainless to simplify their usage-based billing API and provide a better developer experience.",
+    "Outside Collaborators": "Metronome Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-12-15",
+    "Quarter": "Q4",
+    "Segment": "Best Practices/Thought Leadership",
+    "Video Title": "The Future of APIs: Trends and Predictions",
+    "Short Video Description": "Explore the latest trends in the API space and get insights into what the future holds for APIs and SDKs. We'll discuss topics like AI-powered APIs, serverless, and more.",
+    "Outside Collaborators": "None"
+  },
+  {
+    "Target Post Date": "Week of 2025-06-09",
+    "Quarter": "Q2",
+    "Segment": "Customer Success Story",
+    "Video Title": "Runway's Approach to Streamlining their Developer Experience",
+    "Short Video Description": "Learn how Runway leverages Stainless to streamline their API and provide a better developer experience. Includes testimonial from Runway.",
+    "Outside Collaborators": "Runway Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-09-15",
+    "Quarter": "Q3",
+    "Segment": "Customer Success Story",
+    "Video Title": "How Lithic Uses Stainless to Create a Seamless Card Issuing API",
+    "Short Video Description": "Discover how Lithic uses Stainless to create a seamless card issuing API, empowering developers to build innovative payment solutions.",
+    "Outside Collaborators": "Lithic Engineer for Testimonial"
+  },
+  {
+    "Target Post Date": "Week of 2025-12-29",
+    "Quarter": "Q4",
+    "Segment": "Customer Success Story",
+    "Video Title": "Orb's Streamlined Billing API, Powered by Stainless",
+    "Short Video Description": "Discover how Orb leverages Stainless to streamline their billing API, making it easier for developers to integrate and manage subscriptions.",
+    "Outside Collaborators": "Orb Engineer for Testimonial"
+  }
+]

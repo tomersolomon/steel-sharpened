@@ -1,0 +1,154 @@
+[
+  {
+    "Month": "March 2025",
+    "Event Name": "TrailblazerDX",
+    "Event Type": "Conference",
+    "Focus": "Salesforce Development, APIs, Integration",
+    "Location": "San Francisco, CA",
+    "Link": "https://www.salesforce.com/trailblazerdx/"
+  },
+  {
+    "Month": "March 2025",
+    "Event Name": "API Strategy & Practice",
+    "Event Type": "Conference",
+    "Focus": "API Strategy, Business of APIs",
+    "Location": "San Francisco, CA",
+    "Link": "https://apistrategyconference.com/"
+  },
+  {
+    "Month": "April 2025",
+    "Event Name": "ODSC East",
+    "Event Type": "Conference",
+    "Focus": "Applied AI/ML",
+    "Location": "Boston, MA",
+    "Link": "https://odsc.com/boston/"
+  },
+  {
+    "Month": "May 2025",
+    "Event Name": "PyCon US",
+    "Event Type": "Conference",
+    "Focus": "Python Development, Libraries, Frameworks",
+    "Location": "Varies (US)",
+    "Link": "https://us.pycon.org/2025/"
+  },
+  {
+    "Month": "June 2025",
+    "Event Name": "Node.js Interactive",
+    "Event Type": "Conference",
+    "Focus": "Node.js Development, Ecosystem",
+    "Location": "Varies (US)",
+    "Link": "https://events.linuxfoundation.org/"
+  },
+  {
+    "Month": "June 2025",
+    "Event Name": "JSNation",
+    "Event Type": "Conference",
+    "Focus": "Typescript",
+    "Location": "Amsterdam",
+    "Link": "https://jsnation.com/"
+  },
+  {
+    "Month": "August 2025",
+    "Event Name": "Google Cloud Next",
+    "Event Type": "Conference",
+    "Focus": "Cloud Computing, Google Cloud Ecosystem",
+    "Location": "San Francisco, CA",
+    "Link": "https://cloud.withgoogle.com/next"
+  },
+  {
+    "Month": "September 2025",
+    "Event Name": "OpenAPI Conference (ASC)",
+    "Event Type": "Conference",
+    "Focus": "OpenAPI Specification, API Design",
+    "Location": "Varies (US)",
+    "Link": "https://events.linuxfoundation.org/openapi-conference/"
+  },
+  {
+    "Month": "September 2025",
+    "Event Name": "API Strategy & Practice",
+    "Event Type": "Conference",
+    "Focus": "API Strategy, Business of APIs",
+    "Location": "San Francisco, CA",
+    "Link": "https://apistrategyconference.com/"
+  },
+  {
+    "Month": "September 2025",
+    "Event Name": "Dreamforce",
+    "Event Type": "Conference",
+    "Focus": "Salesforce Ecosystem, CRM, Business",
+    "Location": "San Francisco, CA",
+    "Link": "https://www.salesforce.com/dreamforce/"
+  },
+  {
+    "Month": "September 2025",
+    "Event Name": "HashiConf US",
+    "Event Type": "Conference",
+    "Focus": "Terraform, Infrastructure as Code",
+    "Location": "Varies (US)",
+    "Link": "https://hashiconf.com/"
+  },
+  {
+    "Month": "September 2025",
+    "Event Name": "AI Summit New York",
+    "Event Type": "Conference",
+    "Focus": "Business-focused AI",
+    "Location": "New York, NY",
+    "Link": "https://newyork.theaisummit.com/"
+  },
+  {
+    "Month": "October 2025",
+    "Event Name": "API World",
+    "Event Type": "Conference",
+    "Focus": "High-Quality API Design, SDK Development",
+    "Location": "San Jose, CA",
+    "Link": "https://apiworld.co/"
+  },
+  {
+    "Month": "October 2025",
+    "Event Name": "TSConf",
+    "Event Type": "Conference",
+    "Focus": "TypeScript Development",
+    "Location": "Seattle, WA",
+    "Link": "https://www.tsconf.io/"
+  },
+  {
+    "Month": "October 2025",
+    "Event Name": "ODSC West",
+    "Event Type": "Conference",
+    "Focus": "Applied AI/ML",
+    "Location": "San Francisco, CA",
+    "Link": "https://odsc.com/california/"
+  },
+  {
+    "Month": "October 2025",
+    "Event Name": "DevOps Enterprise Summit",
+    "Event Type": "Conference",
+    "Focus": "DevOps, Automation, Infrastructure as Code",
+    "Location": "Las Vegas, NV",
+    "Link": "https://events.itrevolution.com/"
+  },
+  {
+    "Month": "November 2025",
+    "Event Name": "KubeCon + CloudNativeCon North America",
+    "Event Type": "Conference",
+    "Focus": "Kubernetes, Cloud-Native Technologies",
+    "Location": "Varies (US)",
+    "Link": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/"
+  },
+  {
+    "Month": "November-December 2025",
+    "Event Name": "AWS re:Invent",
+    "Event Type": "Conference",
+    "Focus": "Cloud Computing, AWS Ecosystem",
+    "Location": "Las Vegas, NV",
+    "Link": "https://reinvent.awsevents.com/"
+  },
+  {
+    "Month": "December 2025",
+    "Event Name": "AI Summit San Francisco",
+    "Event Type": "Conference",
+    "Focus": "Business-focused AI",
+    "Location": "San Francisco, CA",
+    "Link": "https://sanfrancisco.theaisummit.com/"
+  }
+]

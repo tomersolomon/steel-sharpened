@@ -1,0 +1,329 @@
+
+[
+  {
+    "Company": "Stainless",
+    "Website": "https://www.stainlessapi.com/",
+    "Classification": "SDK Generation and Management",
+    "Pricing": [
+      {
+        "Name": "Free",
+        "Price": "$0/mo",
+        "Description": "No credit card required. 1 live SDK (any language). Up to 50 endpoints. Automatic updates & releases. Custom changes to limited files only."
+      },
+      {
+        "Name": "Startup",
+        "Price": "$250/mo per live SDK",
+        "Description": "Choose from all available SDK languages. Up to 50 endpoints. Automatic updates & releases. Custom code (up to +1,000 lines added). Free for FOSS projects."
+      },
+      {
+        "Name": "Business",
+        "Price": "$2,500/mo",
+        "Description": "Annual billing. 5 live SDKs included. Up to 150 endpoints. Slack developer support. Automated SDK migration support."
+      },
+      {
+        "Name": "Enterprise",
+        "Price": "Tailored pricing",
+        "Description": "All available SDKs. Any API size. Enterprise support and SLAs. Fully managed SDK service. Advanced functionality, e.g. Streaming."
+      }
+    ],
+    "Pricing Link": "https://www.stainlessapi.com/pricing",
+    "Notes": "Stainless + Steel"
+  },
+  {
+    "Company": "Speakeasy",
+    "Website": "https://www.speakeasyapi.dev/",
+    "Classification": "SDK Generation and Management",
+    "Pricing": [
+      {
+        "Name": "Get Started for Free",
+        "Price": "$0",
+        "Description": "Access to latest version of basic SDK generation. Put 1 SDK in production today. Unlimited generations. Access to our OpenAPI toolchain. Community Slack support and Public Roadmap"
+      },
+      {
+        "Name": "Scale-Up",
+        "Price": "$250 / month per language SDK $500 / month per Terraform Provider",
+        "Description": "Up to 5 languages. Automated SDK generation and publishing in your GitHub org. Integrate with your docs"
+      },
+      {
+        "Name": "Business",
+        "Price": "$500 / month per language SDK $1000 / month per Terraform Provider",
+        "Description": "Everything from Scale Up +. Custom Code Support, Event Streaming and Test Generation. SLAs for service"
+      },
+      {
+        "Name": "Enterprise",
+        "Price": "Tailored pricing made for you",
+        "Description": "Everything from Business +. All features and all languages. Tailored onboarding and migration service. Enterprise support: dedicated Slack channel, service and support SLAs. Early access to new language targets and features"
+      }
+    ],
+    "Pricing Link": "https://www.speakeasyapi.dev/pricing",
+    "Notes": "Most direct competitor. Raised $15M Series A led by GV in October 2024, indicating a competitive and rapidly evolving space."
+  },
+  {
+    "Company": "Liblab",
+    "Website": "https://liblab.com/",
+    "Classification": "SDK Generation and Management",
+    "Pricing": [
+      {
+        "Name": "Free",
+        "Price": "$0 /month",
+        "Description": "Ideal for teams exploring our platform. Up to 5 SDK builds per month at no cost"
+      },
+      {
+        "Name": "Starter",
+        "Price": "$300 /month",
+        "Description": "Perfect for growing teams. Unlimited SDK builds in all supported languages"
+      },
+      {
+        "Name": "Advanced",
+        "Price": "Tailored Pricing",
+        "Description": "For teams with comprehensive needs. Unlimited SDK builds in all supported languages, professional services, and full support with tailored pricing"
+      }
+    ],
+    "Pricing Link": "https://liblab.com/pricing",
+    "Notes": "Similar to Speakeasy and Stainless, focuses on SDK generation and management"
+  },
+  {
+    "Company": "OpenAPI Generator",
+    "Website": "https://openapi-generator.tech/",
+    "Classification": "SDK Generation (Open Source)",
+    "Pricing": [
+      {
+        "Name": "N/A",
+        "Price": "Free and open-source",
+        "Description": "N/A"
+      }
+    ],
+    "Pricing Link": null,
+    "Notes": "Open-source tool for generating SDKs (and other outputs) from OpenAPI specs"
+  },
+  {
+    "Company": "Mintlify",
+    "Website": "https://mintlify.com/",
+    "Classification": "API Documentation Platform",
+    "Pricing": [
+      {
+        "Name": "Hobby",
+        "Price": "$0",
+        "Description": "For individual hobbyists. Beautiful out of the box. Single editor. Custom domain. WYSIWYG editor. Built-in components library. In-app search. API playground. Third party integrations"
+      },
+      {
+        "Name": "Pro",
+        "Price": "$150/month",
+        "Description": "For small teams and startups. Everything in Hobby, plus. 5 editors. AI chat responses. Advanced analytics. AI assistant writer. Chat analytics. Custom subpaths /docs. User feedback"
+      },
+      {
+        "Name": "Growth",
+        "Price": "$550/month",
+        "Description": "For growing companies. Everything in Pro, plus. 20 editors. Custom CSS + JS. Preview deployments. Password-protection. Grammar and styling checks. Remove Mintlify branding. Increased AI chat credits"
+      },
+      {
+        "Name": "Enterprise",
+        "Price": "Custom Pricing",
+        "Description": "For those needing an enterprise-grade solution. Everything in Growth, plus. End-user authentication. Multiple products. Custom homepage. SSO login. 99.99% uptime SLA. Support SLA. Security and legal review"
+      }
+    ],
+    "Pricing Link": "https://mintlify.com/pricing",
+    "Notes": "Focuses on creating and user-friendly API documentation"
+  },
+  {
+    "Company": "Scalar",
+    "Website": "https://www.scalar.com/",
+    "Classification": "API Documentation and Client",
+    "Pricing": [
+      {
+        "Name": "Free - 1 User",
+        "Price": "N/A",
+        "Description": "Unlimited Workspaces. Free Subdomains. API References (OpenAPI). Fully Stylable with Themes. Custom CSS/Javascript. Built in Scalar API Client"
+      },
+      {
+        "Name": "Pro - $12 Seat",
+        "Price": "N/A",
+        "Description": "Everything in Free. Custom Domains. Sync with GitHub. Guides & Versions. Search (by TypeSense). Priority Support"
+      },
+      {
+        "Name": "Enterprise",
+        "Price": "N/A",
+        "Description": "Everything in Pro. Priority Support. SSO/SAML. Monthly Audit of Docs. Verified Workspaces. Dedicated Slack Channel"
+      }
+    ],
+    "Pricing Link": "https://www.scalar.com/pricing",
+    "Notes": "Provides API documentation with a built-in, interactive API client. "
+  },
+  {
+    "Company": "Readme",
+    "Website": "https://readme.com/",
+    "Classification": "API Documentation Platform",
+    "Pricing": [
+      {
+        "Name": "Free",
+        "Price": "$0 per month",
+        "Description": "Create a foundation using your API reference. OAS/Swagger Support. API Versions. Advanced Request History"
+      },
+      {
+        "Name": "Startup",
+        "Price": "$99 per month",
+        "Description": "For small teams who want to build out their docs and create a community. Custom Domain. Guides. Changelog. Discussion Forum"
+      },
+      {
+        "Name": "Business",
+        "Price": "$399 per month",
+        "Description": "For multi-role teams who want advanced styling and basic management tools. Custom CSS/HTML. Reusable Content. Export Metrics Data. Statuspage Integration"
+      },
+      {
+        "Name": "Enterprise",
+        "Price": "$3000+ per month",
+        "Description": "For organizations looking to build scalable docs with multi-project management and security needs. Custom JS. Staging Environment. SSO & User Permissions. Public & Private APIs. Content Writing & Design"
+      }
+    ],
+    "Pricing Link": "https://readme.com/pricing",
+    "Notes": "Popular platform for creating and hosting API documentation, interactive features"
+  },
+  {
+    "Company": "Redocly",
+    "Website": "https://redocly.com/",
+    "Classification": "API Documentation Platform",
+    "Pricing": [
+      {
+        "Name": "Pro",
+        "Price": "$10 USD per seat/month, billed monthly",
+        "Description": "Start building your project with. Reunite. Custom domain hosting. 1 Project. 100 Pages"
+      },
+      {
+        "Name": "Enterprise",
+        "Price": "$24 USD per seat/month, billed monthly",
+        "Description": "Everything included in Pro, plus. 500 Pages. SSO. Guest SSO. RBAC"
+      },
+      {
+        "Name": "Enterprise+",
+        "Price": "Custom always billed yearly",
+        "Description": "Everything included in Enterprise, plus. Data residency options. Sales-assistance. Procurement forms. Security questionnaires. Pay-by-invoice / PO process. Legal reviews. Single-tenant hosting options. Premium support and professional services options"
+      }
+    ],
+    "Pricing Link": "https://redocly.com/pricing/",
+    "Notes": "Offers an open-source documentation tool (Redoc) and a suite of commercial API documentation products."
+  },
+  {
+    "Company": "Stoplight",
+    "Website": "https://stoplight.io/",
+    "Classification": "API Design and Documentation Platform",
+    "Pricing": [
+      {
+        "Name": "Basic",
+        "Price": "$39 /month $9 per additional user",
+        "Description": "Design an API as an individual. First 3 users free. OpenAPI/JSON schema visual designer. Interactive docs. Instant mock servers"
+      },
+      {
+        "Name": "Startup",
+        "Price": "$99 /month $9 per additional user",
+        "Description": "Build an API program for small teams. First 8 users free. Private projects. Multi-branch support. Custom domains, theming and favicon. Google Analytics integration. Approved email domains"
+      },
+      {
+        "Name": "Pro Team",
+        "Price": "$319 /month $19 per additional user",
+        "Description": "Govern APIs across your organization. First 15 users free. Up to 20 teams. Shared style guides. Workspace groups. Remove Stoplight branding. Self-hosted Git providers. Activity logs. LDAP & SAML SSO. Component Libraries"
+      },
+      {
+        "Name": "Enterprise",
+        "Price": "N/A",
+        "Description": "Your API program at scale. Please contact sales to get a quote on pricing. Custom pricing. Unlimited projects and teams. Custom payment terms. Invoicing. Priority support"
+      }
+    ],
+    "Pricing Link": "https://stoplight.io/pricing",
+    "Notes": "API design, development, and documentation platform, supports OpenAPI"
+  },
+  {
+    "Company": "Swagger (SmartBear)",
+    "Website": "https://swagger.io/",
+    "Classification": "API Development Tools (OpenAPI)",
+    "Pricing": [
+      {
+        "Name": "N/A",
+        "Price": "N/A",
+        "Description": "Offers both open-source tools and commercial products. SwaggerHub (commercial) has tiered pricing based on users and features."
+      }
+    ],
+    "Pricing Link": "https://swagger.io/tools/swaggerhub/",
+    "Notes": "Ecosystem incumbent. Suite of tools for designing, building, documenting, and testing APIs (OpenAPI)"
+  },
+  {
+    "Company": "Postman",
+    "Website": "https://www.postman.com/",
+    "Classification": "API Development and Testing Platform",
+    "Pricing": [
+      {
+        "Name": "Free",
+        "Price": "$0",
+        "Description": "For individuals or a small team of 3 or less to start testing APIs. Up to 3 collaborators. Access to API Client. Cloud-based integrations. 3 Packages. 30 day collection recovery. 25 collection runs. Access to Flows. 50 free activities in Postbot"
+      },
+      {
+        "Name": "Basic",
+        "Price": "$14 per user/month, billed annually",
+        "Description": "API collaboration for a single team. Everything in Free, plus: Unlimited collaborators. 10,000 Mock Server requests. 10,000 Monitor requests. Additional pay-as-you-go capabilities"
+      },
+      {
+        "Name": "Professional",
+        "Price": "$29 per user/month, billed annually",
+        "Description": "API collaboration for larger teams, cross-org, and external partners. Everything in Basic, plus: Private Workspaces. Single & Multi-Partner Workspaces. Basic role-based access control. 25 Packages. 90 days collection recovery"
+      },
+      {
+        "Name": "Enterprise",
+        "Price": "$49 per user/month, billed annually",
+        "Description": "Org-wide API development with advanced support, security, and control. Everything in Professional, plus: Private API Network. SSO, SCIM, & SAML. Reporting & Analytics. Audit Logs. User Groups. Advanced role-based access control. 100 Packages. 100,000 Mock Server requests. 10,000 Monitor requests. Customer Success"
+      }
+    ],
+    "Pricing Link": "https://www.postman.com/pricing/",
+    "Notes": "Popular platform for API development, testing, collaboration, and documentation"
+  },
+  {
+    "Company": "Insomnia",
+    "Website": "https://insomnia.rest/",
+    "Classification": "API Client and Testing Tool",
+    "Pricing": [
+      {
+        "Name": "Hobby",
+        "Price": "$0 per user/month",
+        "Description": "All API designing, debugging, mocking and collaboration. Unlimited collaborators for accounts with 1 project. Unlimited collection runs"
+      },
+      {
+        "Name": "Pro",
+        "Price": "$12 per user/month",
+        "Description": "Everything in Hobby, plus: Unlimited collaborators. Unlimited organizations. Native Git support. RBAC and permissions"
+      },
+      {
+        "Name": "Enterprise",
+        "Price": "$45 per user/month, billed annually",
+        "Description": "Everything in Pro, plus: Enterprise SSO (SAML, OIDC) & SCIM. Storage control to mandate Cloud, Local or Git. Advanced RBAC for teams. Domain Capture & Invite Control. Self-hosted API mocking. Enterprise support. Kong Professional Services. Custom payment options. Unlimited mock requests"
+      }
+    ],
+    "Pricing Link": "https://insomnia.rest/pricing",
+    "Notes": "Similar to Postman, used for designing, debugging, testing, and documenting APIs"
+  },
+  {
+    "Company": "Apiary (Oracle)",
+    "Website": "https://apiary.io/",
+    "Classification": "API Design and Documentation (Acquired)",
+    "Pricing": [
+      {
+        "Name": "N/A",
+        "Price": "N/A",
+        "Description": "Pricing is now integrated with Oracle Cloud Infrastructure, varies based on usage and features."
+      }
+    ],
+    "Pricing Link": "https://www.oracle.com/cloud/application-integration/api-platform-cloud/",
+    "Notes": "API design, documentation, and testing, now part of Oracle's API Platform"
+  },
+  {
+    "Company": "Kong",
+    "Website": "https://konghq.com/",
+    "Classification": "API Gateway and Management",
+    "Pricing": [
+      {
+        "Name": "N/A",
+        "Price": "N/A",
+        "Description": "Kong Gateway is open-source. Kong Konnect (managed) has tiered pricing based on usage and features."
+      }
+    ],
+    "Pricing Link": "https://konghq.com/pricing/",
+    "Notes": "Open-source API gateway and management platform, handles routing, security, etc."
+  }
+]
