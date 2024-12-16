@@ -27,7 +27,7 @@ Future MVP development steps include: auto-generating SDK endpoint tests, creati
 
 The objective here is to identify potential customers via an engineering-first approach. We've focused on three target groups:
 
-1. **Public OpenAPI YAML's:** We used [https://api.apis.guru/](https://api.apis.guru/) - an API that aggreagates API's - to source publicly available OpenAPI YAML files and then wrote a script to parse contact information, documentation links, and the YAML files themselves. A proof of concept to shower a creative ways of driving growth via sourcing OpenAPI YAML files. 
+1. **Public OpenAPI YAML's:** We used [https://api.apis.guru/](https://api.apis.guru/) - an API that aggreagates API's - to source publicly available OpenAPI YAML files and then wrote a script to parse contact information, documentation links, and the YAML files themselves. A proof of concept to show creative ways of driving growth via sourcing OpenAPI YAML files. 
 2. **API Companies:** Next we leveraged the power of web scraping. We developed a Playwright-based web scraper to extract a list of API companies from [API-Tracker](https://apitracker.io/). This approach can be extended to platforms like the Postman Public API Network.
 3. **API Platform Engineers:** We then targeted API platofrm engineers. We leveraged [Apollo](https://app.apollo.io/)'s database to identify US-based API platform engineers as a target audience. The Airtable link to the raw data is [here](https://airtable.com/invite/l?inviteId=invd0Bdkxy2kO2mpM&inviteToken=006ffec975303653a34df28a46e9ad45c1e2b3b25893625e048fecbfb26d63df&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts).
 
@@ -61,4 +61,4 @@ We performed a preliminary competitive analysis to understand the ecosystem and 
 
 *   **Partnerships** There are interesting potential partnership opportunities in documentation (depending on Stainless's build vs. buy strategy) as well as with CLI players like CircleCI and API management companies like Kong. 
 
-Reach out at [@tomer_solomon](https://twitter.com/tomer_solomon) for any questions and thoughts!
+Reach out for any questions and thoughts!
