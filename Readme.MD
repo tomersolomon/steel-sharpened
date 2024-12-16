@@ -7,7 +7,7 @@ This project analyzes [Stainless](https://www.stainlessapi.com/), a Series A com
 The core of [Stainless](https://www.stainlessapi.com/)'s business is SDK generation from OpenAPI YAML files. We've built an MVP to understand and demonstrate this process:
 
 <!-- <video width="640" height="360" controls>
-  <source src="https://github.com/tomersolomon/steel-sharpened/blob/Main/1-Product/steel-sdk-demo-min.mp4?raw=true" type="video/mp4">
+  <source src="https://github.com/tomersolomon/steel-sharpened/blob/Main/1-Product/steel-sdk-demo-min.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> -->
 
@@ -32,7 +32,7 @@ The objective here is to identify potential customers via engineering-first appr
 
 1. **Public OpenAPI YAML Files:** We used [https://api.apis.guru/](https://api.apis.guru/) - an API that aggreagates API's - to source publicly available OpenAPI specifications, along with contact information, documentation links, and the YAML files themselves. A proof of concept to shower a creative ways of driving growth via sourcing OpenAPI YAML files. 
 2. **API Companies:** Next we leveraged the power of web scraping. We developed a Playwright-based web scraper to extract a list of API companies from [API-Tracker](https://apitracker.io/). This approach can be extended to platforms like the Postman Public API Network.
-3. **API Platform Engineers:** We then targeted People over Companies. We leveraged [Apollo](https://app.apollo.io/)'s database to identify US-based API platform engineers as a target audience. The Airtable link to the raw data is [here].(https://airtable.com/appk7oNE7MdJbQN2J/tblw2YX2mHmcLsIjh/viwOl95O8Rz7IWXVe?blocks=hide).
+3. **API Platform Engineers:** We then targeted People over Companies. We leveraged [Apollo](https://app.apollo.io/)'s database to identify US-based API platform engineers as a target audience. The Airtable link to the raw data is [here](https://airtable.com/appk7oNE7MdJbQN2J/tblw2YX2mHmcLsIjh/viwOl95O8Rz7IWXVe?blocks=hide).
 
 This of course exludes plenty of other channels - namley targeting high growth AI & API first companies within the same investor ecosystem - but serves as a way to demonstrate creative and engineering-first approaches in growth. Future steps involve:
 
