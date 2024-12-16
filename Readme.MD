@@ -61,4 +61,4 @@ We performed a preliminary competitive analysis to understand the ecosystem and 
 
 *   **Partnerships** There are interesting potential partnership opportunities in documentation (depending on Stainless's build vs. buy strategy) as well as with CLI players like CircleCI and API management companies like Kong. 
 
-Reach out for any questions and thoughts!
+A quick sketch to understand the core levers of the business. Reach out for any questions and thoughts!
